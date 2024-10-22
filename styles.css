@@ -35,14 +35,14 @@ body {
 .hero h1 {
   font-weight: var(--extra-light);
   color: var(--grayish-blue);
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   margin-top: 35px;
 }
 
 .hero h2 {
   font-weight: var(--semi-bold);
   color: var(--very-dark-blue);
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   margin-bottom: 20px;
 }
 
