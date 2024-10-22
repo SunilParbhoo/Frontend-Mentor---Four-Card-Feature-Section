@@ -113,17 +113,24 @@ footer {
 }
 
 /* mobile */
-@media (max-width: 767px) {
+@media (max-width: 1110px) {
   body {
     padding: 90px 32px;
+  }
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+  .hero h2 {
+    font-size: 1.5rem;
   }
 }
 
 /* 768px originally  - desktop */
-@media (min-width: 1110px) {
+@media (min-width: 1111px) {
   .hero {
     max-width: 510px;
   }
+
   .container {
     height: auto;
     display: grid;
